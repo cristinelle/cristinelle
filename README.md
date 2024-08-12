@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @cristinelle
-design for template and editing video - 👀 I’m interested in ...
-to be an freelance - 🌱 I’m currently learning ...
- project - 💞️ I’m looking to collaborate on ...
-give me message - 📫 How to reach me ...
-SHE - 😄 Pronouns:  
-like to explore in desgning template- ⚡ Fun fact: ...
+- 👀 I’m interested in ...design for template and editing video
+- 🌱 I’m currently learning ...to be an freelance 
+- 💞️ I’m looking to collaborate on ... on aproject 
+- 📫 How to reach me ...give message
+- 😄 Pronouns: SHE/miss
+- ⚡ Fun fact: ... i like to explore in doing a designing of notes cards as i'm enjoying it
 
 <!---
 cristinelle/cristinelle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
